@@ -1,8 +1,13 @@
 {
   "name": "use-containers",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "use-containers redux state hook",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricPKerr/use-containers.git"
+  },
+  "homepage": "https://github.com/EricPKerr/use-containers#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
